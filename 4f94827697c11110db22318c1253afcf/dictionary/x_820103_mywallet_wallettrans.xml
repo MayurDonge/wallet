@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="walletTrans" max_length="40" name="x_820103_mywallet_wallettrans" sizeclass="1" type="collection">
+        <element label="AccountBalance" max_length="40" name="accountbalance" type="integer"/>
+        <element label="Amount" max_length="40" name="amount" type="integer"/>
+        <element label="DateofTransaction" max_length="40" name="dateoftransaction" type="glide_date_time"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="TransastionId" max_length="40" name="transastionid" type="integer"/>
+    </element>
+</database>

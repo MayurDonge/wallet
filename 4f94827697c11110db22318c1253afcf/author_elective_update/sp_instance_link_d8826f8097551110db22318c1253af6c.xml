@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>address-book</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e362a78097551110db22318c1253af99</sp_column>
+        <sp_page display_value="register">421b4e9897a51110db22318c1253af11</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-09 11:42:19</sys_created_on>
+        <sys_id>d8826f8097551110db22318c1253af6c</sys_id>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name>Admin</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_update_name>sp_instance_link_d8826f8097551110db22318c1253af6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 09:36:49</sys_updated_on>
+        <title>Admin</title>
+        <type>page</type>
+        <url>https://dev120399.service-now.com/nav_to.do?uri=x_820103_mywallet_sign_up.do?sys_id=f32a836097611110db22318c1253aff4%26sysparm_view=sign up</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=d8826f8097551110db22318c1253af6c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mywallet">4f94827697c11110db22318c1253afcf</application>
+        <file_path/>
+        <instance_id>c1f3c0abdbf04d10f37acac505961994</instance_id>
+        <instance_name>dev120399</instance_name>
+        <name>sp_instance_link_d8826f8097551110db22318c1253af6c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;primary&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;address-book&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;e362a78097551110db22318c1253af99&lt;/sp_column&gt;&lt;sp_page display_value="register"&gt;421b4e9897a51110db22318c1253af11&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-08-09 11:42:19&lt;/sys_created_on&gt;&lt;sys_id&gt;d8826f8097551110db22318c1253af6c&lt;/sys_id&gt;&lt;sys_mod_count&gt;25&lt;/sys_mod_count&gt;&lt;sys_name&gt;Admin&lt;/sys_name&gt;&lt;sys_package display_value="Mywallet" source="x_820103_mywallet"&gt;4f94827697c11110db22318c1253afcf&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Mywallet"&gt;4f94827697c11110db22318c1253afcf&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_d8826f8097551110db22318c1253af6c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-08-23 09:36:49&lt;/sys_updated_on&gt;&lt;title&gt;Admin&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url&gt;https://dev120399.service-now.com/nav_to.do?uri=x_820103_mywallet_sign_up.do?sys_id=f32a836097611110db22318c1253aff4%26sysparm_view=sign up&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d8826f8097551110db22318c1253af6c"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1336242092</payload_hash>
+        <record_name>Admin</record_name>
+        <reverted_from/>
+        <source>0394827697c11110db22318c1253afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 09:36:49</sys_created_on>
+        <sys_id>a20c8fa097611110db22318c1253afbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ca0fcd490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 09:36:49</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>ea0c8fa0c1611110f74ac48b098798bd</update_guid>
+        <update_guid_history>ea0c8fa0c1611110f74ac48b098798bd:1336242092,b7cb0fa0fc61111070d62f04500558cb:-1237147410,716acf20716111107c1eb0b0e8a415c6:1338069690,10b426148f2911106acaf6a7a944f36f:-72676475,0ea26690732911108ffb27bdeb62dab8:2010021090,33a1ae1098291110bdc5cad0bfa48f25:-684359558,42316e105d291110f9b13ecebce6d1de:-72676475,b48d165c68e51110db37aa76c77f20d2:590376418,faf6643a951d11107972304eb2f92d3f:752984592,5fefd8f2ec1d111062c614f51b6796e1:1974691174,be35d07a15d911102dd8f730bb0beb5f:-1158025689,cfcd08b23dd9111063adf2f1f46542d6:1974691174,13256f260f11111029dba3a62ecaaeb6:-1158025689,4fb327e2df111110fdc0343df1e24d5c:-1923409322,8e12aba271111110f804b48d0ac74b78:-429241719,79185f9643551110229a994c3c2be10a:-1829211931,7c14dbd2cd551110f279e869013673cd:-771685332,0e4393d2535511105ff16364e7a7df31:1157223774,36fdbad26115111070ac105097946ec3:541678431,65ed3ad2061511101e84808fc6807e26:890536799,07adb6d21e151110d42a9abe7162ee00:541678431,63936edeac911110e02bce5856ef7f3f:777866785,628c20e859111110c91e38d20a43bf22:1293317036,13b560e4d31111107f6abe109bf49035:541678431,63432f8063551110b69044e5ae563aaf:-1165664392,58826f802455111007259c09345ad26e:-394668039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Admin">66c1f48197651110db22318c1253af80</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 11:39:51</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>21cb74c2cab846a69c4ba33451378981</sys_id>
+        <sys_metadata>d8826f8097551110db22318c1253af6c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Admin</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_scope_delete display_value="">5491b82fa34f4aa29eefde32a73067d9</sys_scope_delete>
+        <sys_update_name>sp_instance_link_d8826f8097551110db22318c1253af6c</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_d8826f8097551110db22318c1253af6c">a20c8fa097611110db22318c1253afbe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 11:39:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

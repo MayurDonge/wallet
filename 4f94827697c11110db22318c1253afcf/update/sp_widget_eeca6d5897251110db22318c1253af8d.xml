@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>{ box-sizing: border-box
+}
+body{
+  backgound-color: #9b59b6;
+   display: flex;
+  align-items: center;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>reg</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>reg</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 07:53:27</sys_created_on>
+        <sys_id>eeca6d5897251110db22318c1253af8d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>reg</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_update_name>sp_widget_eeca6d5897251110db22318c1253af8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-22 10:13:15</sys_updated_on>
+        <template><![CDATA[<div class="container">
+ <div class="header">
+   <h2> Create Account</h2>
+  </div>
+  <form class="form" id="form">
+    <div class="form-control">
+      <label>Username</label>
+      <input type="text" id="username">
+  </div>
+    <div class="form-control">
+      <label>Email</label>
+      <input type="text" id="Email">
+  </div>
+    <div class="form-control">
+      <label>Password</label>
+      <input type="text" id="username">
+  </div>
+    <button>
+      Submit
+    </button>
+   </form>
+</div>]]></template>
+    </sp_widget>
+</record_update>

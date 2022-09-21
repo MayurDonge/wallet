@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Signup Table" max_length="40" name="x_820103_mywallet_signup_table" sizeclass="3" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="password" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="integer"/>
+        <element label="User Email" max_length="40" name="user_enail" type="string"/>
+        <element label="User Name" max_length="40" name="user_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <glyph>arrow-circle-down</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a4b7ac7a971d1110db22318c1253afec</sp_column>
+        <sp_page display_value="transaction">80926076971d1110db22318c1253af39</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 11:09:40</sys_created_on>
+        <sys_id>00c7e4ba971d1110db22318c1253afc4</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Log In</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_update_name>sp_instance_link_00c7e4ba971d1110db22318c1253afc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-25 10:07:43</sys_updated_on>
+        <title>Log In</title>
+        <type>url</type>
+        <url>https://dev120399.service-now.com/nav_to.do?uri=%2Fx_820103_mywallet_login.do%3Fsys_id%3D-1%26sys_is_list%3Dtrue%26sys_target%3Dx_820103_mywallet_login%26sysparm_checked_items%3D%26sysparm_fixed_query%3D%26sysparm_group_sort%3D%26sysparm_list_css%3D%26sys</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=00c7e4ba971d1110db22318c1253afc4"/>
+</record_update>

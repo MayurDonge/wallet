@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>regsucces - Container 4</name>
+        <order>4</order>
+        <sp_page display_value="regsucces">c1d1e3e497a11110db22318c1253af51</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 11:13:01</sys_created_on>
+        <sys_id>eb0227e497a11110db22318c1253afc8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>regsucces - Container 4</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_update_name>sp_container_eb0227e497a11110db22318c1253afc8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 11:29:42</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mywallet">4f94827697c11110db22318c1253afcf</application>
+        <file_path/>
+        <instance_id>c1f3c0abdbf04d10f37acac505961994</instance_id>
+        <instance_name>dev120399</instance_name>
+        <name>sp_container_eb0227e497a11110db22318c1253afc8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>regsucces - Container 4</name><order>4</order><sp_page display_value="regsucces">c1d1e3e497a11110db22318c1253af51</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-23 11:13:01</sys_created_on><sys_id>eb0227e497a11110db22318c1253afc8</sys_id><sys_mod_count>2</sys_mod_count><sys_name>regsucces - Container 4</sys_name><sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package><sys_policy/><sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope><sys_update_name>sp_container_eb0227e497a11110db22318c1253afc8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-23 11:29:42</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1867833816</payload_hash>
+        <record_name>regsucces - Container 4</record_name>
+        <reverted_from/>
+        <source>0394827697c11110db22318c1253afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 11:29:42</sys_created_on>
+        <sys_id>88e527e897a11110db22318c1253af55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ca7725ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 11:29:42</sys_updated_on>
+        <type>Container</type>
+        <update_guid>c0e527e8a4a1111028d257f376d17a55</update_guid>
+        <update_guid_history>c0e527e8a4a1111028d257f376d17a55:-1867833816,6cd523e828a11110d846e328f2a9feb5:-1019697303,230227e4a2a111109359e206ddac2bca:-171560790</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="regsucces - Container 4">69f56fa897a11110db22318c1253affb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 11:30:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>677e50f8d87b40ebad4f7016efdd48a1</sys_id>
+        <sys_metadata>eb0227e497a11110db22318c1253afc8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>regsucces - Container 4</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_scope_delete display_value="">5491b82fa34f4aa29eefde32a73067d9</sys_scope_delete>
+        <sys_update_name>sp_container_eb0227e497a11110db22318c1253afc8</sys_update_name>
+        <sys_update_version display_value="sp_container_eb0227e497a11110db22318c1253afc8">88e527e897a11110db22318c1253af55</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 11:30:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

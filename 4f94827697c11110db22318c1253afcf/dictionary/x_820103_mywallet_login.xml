@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Login" max_length="40" name="x_820103_mywallet_login" sizeclass="14" type="collection">
+        <element label="Email Address" max_length="40" name="email_address" type="string"/>
+        <element label="Password" max_length="40" name="password" type="string"/>
+    </element>
+</database>

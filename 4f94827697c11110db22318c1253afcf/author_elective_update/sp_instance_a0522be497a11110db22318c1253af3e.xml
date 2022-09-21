@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">1c1263e497a11110db22318c1253af66</sp_column>
+        <sp_widget display_value="Test Context">07087c30ff223100ba13ffffffffff08</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 11:14:10</sys_created_on>
+        <sys_id>a0522be497a11110db22318c1253af3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_update_name>sp_instance_a0522be497a11110db22318c1253af3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 11:14:10</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a0522be497a11110db22318c1253af3e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mywallet">4f94827697c11110db22318c1253afcf</application>
+        <file_path/>
+        <instance_id>c1f3c0abdbf04d10f37acac505961994</instance_id>
+        <instance_name>dev120399</instance_name>
+        <name>sp_instance_a0522be497a11110db22318c1253af3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">1c1263e497a11110db22318c1253af66</sp_column><sp_widget display_value="Test Context">07087c30ff223100ba13ffffffffff08</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-23 11:14:10</sys_created_on><sys_id>a0522be497a11110db22318c1253af3e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package><sys_policy/><sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope><sys_update_name>sp_instance_a0522be497a11110db22318c1253af3e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-23 11:14:10</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=a0522be497a11110db22318c1253af3e"/></record_update>]]></payload>
+        <payload_hash>346306138</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0394827697c11110db22318c1253afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 11:14:10</sys_created_on>
+        <sys_id>60522be497a11110db22318c1253af40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ca68ed150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 11:14:10</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>a8522be4b1a11110d39e8aeaf625843f</update_guid>
+        <update_guid_history>a8522be4b1a11110d39e8aeaf625843f:346306138</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">707267a497a11110db22318c1253af1e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 11:14:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>33843f8d451549e88c7c62781b00ff90</sys_id>
+        <sys_metadata>a0522be497a11110db22318c1253af3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_scope_delete display_value="">5491b82fa34f4aa29eefde32a73067d9</sys_scope_delete>
+        <sys_update_name>sp_instance_a0522be497a11110db22318c1253af3e</sys_update_name>
+        <sys_update_version display_value="sp_instance_a0522be497a11110db22318c1253af3e">60522be497a11110db22318c1253af40</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 11:14:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

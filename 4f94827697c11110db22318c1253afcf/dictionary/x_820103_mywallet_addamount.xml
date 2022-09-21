@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="addamount" max_length="40" name="x_820103_mywallet_addamount" sizeclass="0" type="collection">
+        <element label="Account Number" max_length="12" name="account_number" type="string"/>
+        <element label="Add Amount" max_length="20" name="add_amount" type="integer"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="User" max_length="40" name="user" type="string"/>
+        <element label="Wallet Balance" max_length="40" name="wallet_balance" type="integer"/>
+    </element>
+</database>
