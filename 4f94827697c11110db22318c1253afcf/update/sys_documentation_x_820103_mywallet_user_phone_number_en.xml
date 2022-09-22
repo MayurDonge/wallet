@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="user" label="USER" language="en" table="x_820103_mywallet_addamount">
+    <sys_documentation element="phone_number" label="Phone number" language="en" table="x_820103_mywallet_user">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>user</element>
+            <element>phone_number</element>
             <help/>
             <hint/>
-            <label>USER</label>
+            <label>Phone number</label>
             <language>en</language>
-            <name>x_820103_mywallet_addamount</name>
-            <plural>USERs</plural>
+            <name>x_820103_mywallet_user</name>
+            <plural>Phone numbers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-21 07:23:33</sys_created_on>
-            <sys_id>c5a3c48697421110db22318c1253aff7</sys_id>
+            <sys_created_on>2022-09-21 07:14:03</sys_created_on>
+            <sys_id>3971000697421110db22318c1253afdd</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>USER</sys_name>
+            <sys_name>Phone number</sys_name>
             <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
             <sys_policy/>
             <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
-            <sys_update_name>sys_documentation_x_820103_mywallet_addamount_user_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_820103_mywallet_user_phone_number_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-21 07:23:33</sys_updated_on>
+            <sys_updated_on>2022-09-21 07:14:03</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

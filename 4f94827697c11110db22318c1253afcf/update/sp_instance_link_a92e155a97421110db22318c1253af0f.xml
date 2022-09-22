@@ -4,7 +4,7 @@
         <class_name/>
         <color>warning</color>
         <css/>
-        <glyph>arrow-circle-o-up</glyph>
+        <glyph>user</glyph>
         <id/>
         <kb_article/>
         <kb_category/>
@@ -15,24 +15,24 @@
         <sc_category/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="1">cda26076971d1110db22318c1253af7c</sp_column>
+        <sp_column display_value="1">1b6e999a97421110db22318c1253af74</sp_column>
         <sp_page/>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-17 10:48:34</sys_created_on>
-        <sys_id>7ae264b6971d1110db22318c1253afda</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_name>Add Amount</sys_name>
+        <sys_created_on>2022-09-22 08:37:28</sys_created_on>
+        <sys_id>a92e155a97421110db22318c1253af0f</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Users</sys_name>
         <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
-        <sys_update_name>sp_instance_link_7ae264b6971d1110db22318c1253afda</sys_update_name>
+        <sys_update_name>sp_instance_link_a92e155a97421110db22318c1253af0f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-22 08:28:45</sys_updated_on>
-        <title>Add Amount</title>
+        <sys_updated_on>2022-09-22 08:46:39</sys_updated_on>
+        <title>Users</title>
         <type>url</type>
-        <url>https://dev120399.service-now.com/nav_to.do?uri=%2Fx_820103_mywallet_addamount.do%3Fsys_id%3D-1%26sys_is_list%3Dtrue%26sys_target%3Dx_820103_mywallet_addamount%26sysparm_checked_items%3D%26sysparm_fixed_query%3D%26sysparm_group_sort%3D%26sysparm_list_css%</url>
+        <url>https://dev120399.service-now.com/nav_to.do?uri=%2Fx_820103_mywallet_user_list</url>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "Color Box",
@@ -40,5 +40,5 @@
 	}
 }]]></widget_parameters>
     </sp_instance_link>
-    <sys_translated_text action="delete_multiple" query="documentkey=7ae264b6971d1110db22318c1253afda"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=a92e155a97421110db22318c1253af0f"/>
 </record_update>

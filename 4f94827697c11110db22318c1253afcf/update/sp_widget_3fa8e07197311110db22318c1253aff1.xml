@@ -78,81 +78,31 @@ if(input)
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-08 05:11:13</sys_created_on>
         <sys_id>3fa8e07197311110db22318c1253aff1</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>R</sys_name>
         <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
         <sys_update_name>sp_widget_3fa8e07197311110db22318c1253aff1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-20 10:24:00</sys_updated_on>
+        <sys_updated_on>2022-09-22 08:54:01</sys_updated_on>
         <template><![CDATA[<div>
 <!-- your widget template -->
-  <div>
-<!-- your widget template -->
-  <!DOCTYPE html>   
-<html>   
-<head>  
-<meta name="viewport" content="width=device-width, initial-scale=1">  
-<title> Login Page </title>  
-<style>   
-Body {  
-  font-family: Calibri, Helvetica, sans-serif;  
-  background-color: pink;  
-}  
-button {   
-       background-color: #4CAF50;   
-       width: 100%;  
-        color: orange;   
-        padding: 15px;   
-        margin: 10px 0px;   
-        border: none;   
-        cursor: pointer;   
-         }   
- form {   
-        border: 3px solid #f1f1f1;   
-    }   
- input[type=text], input[type=password] {   
-        width: 100%;   
-        margin: 8px 0;  
-        padding: 12px 20px;   
-        display: inline-block;   
-        border: 2px solid green;   
-        box-sizing: border-box;   
-    }  
- button:hover {   
-        opacity: 0.7;   
-    }   
-  .cancelbtn {   
-        width: auto;   
-        padding: 10px 18px;  
-        margin: 10px 5px;  
-    }   
-        
-     
- .container {   
-        padding: 25px;   
-        background-color: lightblue;  
-    }   
-</style>   
-</head>    
-<body>    
-    <center> <h1> Login Form </h1> </center>   
-    <form>  
-        <div class="container">   
-            <label>Username : </label>   
-            <input type="text" placeholder="Enter Username" name="username" ng-model="c.pusername" required>  
-            <label>Password : </label>   
-            <input type="password" placeholder="Enter Password" name="password" ng-model="c.password" required>  
-            <button type="submit"ng-click="c.onPSubmit()">Login</button>   
-            <input type="checkbox" checked="checked"> Remember me   
-            <button type="button"  class="cancelbtn"> Cancel</button>   
-            Forgot <a href="#"> password? </a>   
-        </div>   
-    </form>     
-</body>     
-</html>  
-</div>
+  <html>
+    <head>
+    </head>
+    <body style="background-color:yellow;">
+      <form>
+        <input type="text" name="pusername" id="username" ng-model="c.pusername">user name</input>
+      <br></br>
+      <input type="password" name="password" ng-model="c.password">password</input>
+  <br></br>
+    <button ng-click="c.onPSubmit()" class="btn btn-default" value="check">submit</button>
+      
+    </button>
+      </form>
+    </body>
+  </html>
 </div>]]></template>
     </sp_widget>
 </record_update>

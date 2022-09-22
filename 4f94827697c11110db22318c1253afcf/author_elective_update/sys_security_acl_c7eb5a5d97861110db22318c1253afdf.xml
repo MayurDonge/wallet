@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_820103_mywallet_usertable</description>
+        <name>x_820103_mywallet_usertable</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 10:33:27</sys_created_on>
+        <sys_id>c7eb5a5d97861110db22318c1253afdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_820103_mywallet_usertable</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_update_name>sys_security_acl_c7eb5a5d97861110db22318c1253afdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 10:33:27</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mywallet">4f94827697c11110db22318c1253afcf</application>
+        <file_path/>
+        <instance_id>c1f3c0abdbf04d10f37acac505961994</instance_id>
+        <instance_name>dev120399</instance_name>
+        <name>sys_security_acl_c7eb5a5d97861110db22318c1253afdf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_820103_mywallet_usertable</description><name>x_820103_mywallet_usertable</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-19 10:33:27</sys_created_on><sys_id>c7eb5a5d97861110db22318c1253afdf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_820103_mywallet_usertable</sys_name><sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package><sys_policy/><sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope><sys_update_name>sys_security_acl_c7eb5a5d97861110db22318c1253afdf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-19 10:33:27</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-827977301</payload_hash>
+        <record_name>x_820103_mywallet_usertable</record_name>
+        <reverted_from/>
+        <source>0394827697c11110db22318c1253afd2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 10:33:27</sys_created_on>
+        <sys_id>87eb5a5d97861110db22318c1253afe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183554f5a1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 10:33:27</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>cfeb5a5db9861110765e0d5d232aa9e1</update_guid>
+        <update_guid_history>cfeb5a5db9861110765e0d5d232aa9e1:-827977301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 07:21:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>3b28e23b14ca4aeaa928342b00f75679</sys_id>
+        <sys_metadata>c7eb5a5d97861110db22318c1253afdf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_820103_mywallet_usertable</sys_name>
+        <sys_package display_value="Mywallet" source="x_820103_mywallet">4f94827697c11110db22318c1253afcf</sys_package>
+        <sys_parent display_value="">43eb5a5d97861110db22318c1253aff5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Mywallet">4f94827697c11110db22318c1253afcf</sys_scope>
+        <sys_scope_delete display_value="">5491b82fa34f4aa29eefde32a73067d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_c7eb5a5d97861110db22318c1253afdf</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_c7eb5a5d97861110db22318c1253afdf">87eb5a5d97861110db22318c1253afe2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 07:21:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

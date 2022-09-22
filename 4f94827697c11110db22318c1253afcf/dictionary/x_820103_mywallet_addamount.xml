@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="addamount" max_length="40" name="x_820103_mywallet_addamount" sizeclass="0" type="collection">
+    <element label="addamount" max_length="40" name="x_820103_mywallet_addamount" sizeclass="3" type="collection">
         <element label="Account Number" max_length="12" name="account_number" type="string"/>
         <element label="Add Amount" max_length="20" name="add_amount" type="integer"/>
         <element label="Description" max_length="40" name="description" type="string"/>
-        <element label="User" max_length="40" name="user" type="string"/>
+        <element label="USER" max_length="32" name="user" reference="x_820103_mywallet_user" type="reference"/>
         <element label="Wallet Balance" max_length="40" name="wallet_balance" type="integer"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
     </element>
 </database>
